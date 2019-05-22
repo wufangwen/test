@@ -6,5 +6,10 @@ das
 11111
 222111
 dev
+<<<<<<< HEAD
 xiugai
+=======
+feature111
+
+>>>>>>> feachure1
 
